@@ -267,7 +267,7 @@ msgstr "Todos los asientos"
 #: model:ir.model.fields.selection,name:account_financial_report.selection__trial_balance_report_wizard__target_move__posted
 #: model:ir.model.fields.selection,name:account_financial_report.selection__vat_report_wizard__target_move__posted
 msgid "All Posted Entries"
-msgstr "Todos los asientos asentados"
+msgstr "Todos los asientos publicados"
 
 #. module: account_financial_report
 #: code:addons/account_financial_report/report/aged_partner_balance_xlsx.py:0
@@ -293,7 +293,7 @@ msgstr "Todos los asientos"
 #: model_terms:ir.ui.view,arch_db:account_financial_report.report_trial_balance_filters
 #, python-format
 msgid "All posted entries"
-msgstr "Todos los asientos asentados"
+msgstr "Todos los asientos publicados"
 
 #. module: account_financial_report
 #: model_terms:ir.ui.view,arch_db:account_financial_report.report_journal_ledger_journal_table_header
@@ -1018,32 +1018,32 @@ msgstr "Dominio de apuntes contables"
 #: model:ir.ui.menu,name:account_financial_report.menu_journal_ledger_wizard
 #, python-format
 msgid "Journal Ledger"
-msgstr "Diario de libro mayor"
+msgstr "Libro diario"
 
 #. module: account_financial_report
 #: model_terms:ir.ui.view,arch_db:account_financial_report.report_journal_ledger_base
 msgid "Journal Ledger -"
-msgstr "Diario de libro mayor -"
+msgstr "Libro diario -"
 
 #. module: account_financial_report
 #: model:ir.model,name:account_financial_report.model_report_account_financial_report_journal_ledger
 msgid "Journal Ledger Report"
-msgstr "Informe Diario de libro mayor"
+msgstr "Informe Libro diario"
 
 #. module: account_financial_report
 #: model:ir.model,name:account_financial_report.model_journal_ledger_report_wizard
 msgid "Journal Ledger Report Wizard"
-msgstr "Asistente de Informe de Diario de libro mayor"
+msgstr "Asistente de Informe de Libro diario"
 
 #. module: account_financial_report
 #: model:ir.actions.report,name:account_financial_report.action_report_journal_ledger_xlsx
 msgid "Journal Ledger XLSX"
-msgstr "Diario de libro mayor XLSX"
+msgstr "Libro diario XLSX"
 
 #. module: account_financial_report
 #: model:ir.model,name:account_financial_report.model_report_a_f_r_report_journal_ledger_xlsx
 msgid "Journal Ledger XLSX Report"
-msgstr "Informe Diario de libro mayor XLSX"
+msgstr "Informe Libro diario XLSX"
 
 #. module: account_financial_report
 #: code:addons/account_financial_report/report/journal_ledger_xlsx.py:0
@@ -1167,7 +1167,7 @@ msgstr "No solo una cuenta de ganancias no afectada"
 #: code:addons/account_financial_report/wizard/journal_ledger_wizard.py:0
 #, python-format
 msgid "Not Posted"
-msgstr "Sin Postear"
+msgstr "Sin publicar"
 
 #. module: account_financial_report
 #: model_terms:ir.ui.view,arch_db:account_financial_report.report_aged_partner_balance_lines_header
@@ -1311,7 +1311,7 @@ msgstr "Periodos"
 #: code:addons/account_financial_report/wizard/journal_ledger_wizard.py:0
 #, python-format
 msgid "Posted"
-msgstr "Posteado"
+msgstr "Publicado"
 
 #. module: account_financial_report
 #. openerp-web
@@ -1398,7 +1398,7 @@ msgstr "Mostrar"
 #. module: account_financial_report
 #: model:ir.model.fields,field_description:account_financial_report.field_general_ledger_report_wizard__show_cost_center
 msgid "Show Analytic Account"
-msgstr "Mostrar cuenta analítica"
+msgstr "Mostrar centro de costes"
 
 #. module: account_financial_report
 #: model:ir.model.fields,field_description:account_financial_report.field_general_ledger_report_wizard__show_analytic_tags
